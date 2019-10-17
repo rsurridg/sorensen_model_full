@@ -37,5 +37,11 @@ Q_gL=12.6;
 V_gL=25.1;
 Q_gA=2.5;
 
+r_BGU = 70;
+r_RBCU = 10;
+r_GGU = 20;
+r_bPGU = 35;
+r_bHGP = 35;
+r_bHGU = 20;
 
 
