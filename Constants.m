@@ -43,5 +43,10 @@ r_GGU = 20;
 r_bPGU = 35;
 r_bHGP = 35;
 r_bHGU = 20;
+r_bPGamR = 9.1;
+
+G_bH = 1; % made that up
+I_bH = 1;
+
 
 
