@@ -19,9 +19,10 @@ T_i_P=20;
 
 %Glucose
 Q_bG=5.9;
-V_gBF=4.5;
+V_gBF = 4.5;
+V_gBC = 3.5;
 T_gB=2.1;
-%gamma, gamma_b?
+GAMMA_B = 1; % made this up
 V_gK=6.6;
 Q_gK=10.1;
 T_gP=5.0;
@@ -45,8 +46,13 @@ r_bHGP = 35;
 r_bHGU = 20;
 r_bPGamR = 9.1;
 
-G_bH = 1; % made that up
-I_bH = 1;
+%% Pancreas
+a = 0.0482;
+b = 0.9310;
+K = 0.0079;
+lambda = 0.0958;
+N1 = 0.0075;
+N2 = 0.0958;
 
 
 
